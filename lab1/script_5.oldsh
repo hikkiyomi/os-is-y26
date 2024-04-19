@@ -1,0 +1,13 @@
+#!/bin/bash
+
+> info.log
+
+while IFS="" read line
+do
+	cutted="$(echo $line | cut -d " " -f 2)"
+
+	if [[ "$cutted" = "INFO" ]]
+	then
+		echo $line >> info.log
+	fi
+done </var/log/anaconda/syslog

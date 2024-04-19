@@ -1,0 +1,40 @@
+#!/bin/bash
+
+info="$(man bash | tr -cd 'A-Za-z _./-=' | tr ' _./-=' '\n' | tr -s '\n' | sort | uniq -ic | awk '{ print $2"#"$1 }')"
+
+occ1=0
+occ2=0
+occ3=0
+most1=""
+most2=""
+most3=""
+
+for wordinfo in $info; do
+	word="$(cut -d# -f1 <<<$wordinfo)"
+	occ="$(cut -d# -f2 <<<$wordinfo)"
+	length=${#word}
+	
+	if [[ $length -ge 4 ]]; then
+		if [[ $occ -gt $occ1 ]]; then
+			occ3=$occ2
+			occ2=$occ1
+			occ1=$occ
+			most3=$most2
+			most2=$most1
+			most1=$word
+		elif [[ $occ -gt $occ2 ]]; then
+			occ3=$occ2
+			occ2=$occ
+			most3=$most2
+			most2=$word
+		elif [[ $occ -gt $occ3 ]]; then
+			occ3=$occ
+			most3=$word
+		fi
+	fi
+done
+
+echo "$most1 $occ1"
+echo "$most2 $occ2"
+echo "$most3 $occ3"
+

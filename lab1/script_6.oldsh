@@ -1,0 +1,16 @@
+#!/bin/bash
+
+path=/var/log/anaconda/X.log
+substituted=$(sed 's/(WW)/Warning:/g' "$path" | sed 's/(II)/Information:/g')
+output=''
+
+while IFS="" read line; do
+	type=$(awk '{ print $3 }' <<<"$line")
+	
+	if [[ ("$type" = "Warning:") || ("$type" = "Information:") ]]; then
+		output="$output"+$'\n'+"$line"
+	fi
+done <<<"$substituted"
+
+sort -k3 -rf > full.log <<<"$output"
+cat full.log
