@@ -88,7 +88,10 @@ cur_date_timestamp=$( timestamp_from_date $cur_date )
 last_date=$( find $HOME -maxdepth 1 -type d -name "Backup-*" \
        | sort -nrt '-' -k2,4 \
        | head -n1 \
-       | tail -c +14 )
+       | awk -F/ '{ print $NF }' \
+       | tail -c +8 )
+
+echo $last_date
 
 last_date_timestamp=$( timestamp_from_date $last_date )
 days_passed=$( get_difference_in_days $last_date_timestamp $cur_date_timestamp )
