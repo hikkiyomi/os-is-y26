@@ -16,6 +16,18 @@ get_copy_number() {
 	fi
 }
 
+exist() {
+	path=$1
+	existing=$( find $2 -mindepth 1 -maxdepth 1 )
+	result=$( grep $path <<<$existing )
+
+	if [[ -n "$result" ]]; then
+		return 0
+	fi
+
+	return 1
+}
+
 if [[ $# -ne 1 ]]; then
 	echo "Exactly one parameter should be passed to the script."
 	exit 1
@@ -57,11 +69,11 @@ for line in $( cat $HOME/.trash.log ); do
 	new_path="$directory/$1"
 
 	while true; do
-		if ! [ -f $new_path ]; then
+		if ! exist $new_path $directory; then
 			break
 		fi
 
-		read -p "There is already a file with such name. Do you want to create a copy (1) or give the file a new name (2)? " answer
+		read -p "There is already a file / directory with such name. Do you want to create a copy (1) or give the file a new name (2)? " answer
 
 		case $answer in
 			1)

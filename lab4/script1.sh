@@ -1,7 +1,10 @@
 #!/bin/bash
 
 get_number() {
-	last=$( cd $HOME/.trash && find . -type f | awk -F "./" '{ print $2 }' | sort -rn | head -n1 )
+	last=$( cd $HOME/.trash && find . -type f \
+		| awk -F "./" '{ print $2 }' \
+		| sort -rn \
+		| head -n1 )
 
 	if [ -z "$last" ]; then
 		last=0
@@ -12,6 +15,11 @@ get_number() {
 
 if [[ $# -ne 1 ]]; then
 	echo "Exactly one parameter should be passed to the script."
+	exit 1
+fi
+
+if [ -d $1 ]; then
+	echo "Cannot put directories in trash. $1 is a directory."
 	exit 1
 fi
 
