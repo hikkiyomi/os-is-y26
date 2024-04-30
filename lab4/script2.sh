@@ -2,7 +2,7 @@
 
 get_copy_number() {
 	last_number=$( find $1 -type f \
-	       		| grep -e "/$2" \
+	       		| grep -F "/$2" \
 		       	| awk -F/ '{ print $NF }' \
 		       	| awk -F_ '{ print $NF }' \
 		       	| grep -E "[0-9]+" \
@@ -19,7 +19,7 @@ get_copy_number() {
 exist() {
 	path=$1
 	existing=$( find $2 -mindepth 1 -maxdepth 1 )
-	result=$( grep $path <<<$existing )
+	result=$( grep -F "$path" <<<$existing )
 
 	if [[ -n "$result" ]]; then
 		return 0
@@ -29,7 +29,12 @@ exist() {
 }
 
 if [[ $# -ne 1 ]]; then
-	echo "Exactly one parameter should be passed to the script."
+	echo "Exactly one parameter should be passed to the script." >&2
+	exit 1
+fi
+
+if ! grep -qF -- "$1" $HOME/.trash.log; then
+	echo "No $1 found in trash." >&2
 	exit 1
 fi
 
@@ -41,10 +46,10 @@ set -f
 new_trash_log=$( mktemp )
 
 for line in $( cat $HOME/.trash.log ); do
-	last_path=$( awk '{ print $1 }' <<<$line )
-	trash_file=$( awk '{ print $2 }' <<<$line )
+	last_path=$( awk -F/ '{ for (i = 1; i < NF - 1; ++i) printf $i "/"; print $(NF - 1) }' <<<$line )
+	trash_file=$( awk -F/ '{ print $NF }' <<<$line )
 
-	if ! [[ $last_path = */$1 ]]; then
+	if ! grep -qF "/$1" <<<$last_path; then
 		echo "$line" >>$new_trash_log
 
 		continue	
