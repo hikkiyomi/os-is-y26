@@ -1,21 +1,8 @@
 ===================
-MiB Mem :   1817.2 total,   1611.0 free,    119.9 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1580.4 avail Mem 
+MiB Mem :   1817.2 total,   1611.5 free,    119.3 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1580.9 avail Mem 
 
-  12473 root      20   0  236112  16656   2908 R  42.1   0.9   0:00.21 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1563.0 free,    167.8 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1532.4 avail Mem 
-
-  12473 root      20   0  259080  39624   2908 R  43.8   2.1   0:00.58 mem.sh
+  12474 root      20   0  235056  15608   2916 R  42.1   0.8   0:00.20 mem2.sh
 
 mem.sh
 mem2.sh
@@ -25,23 +12,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1513.4 free,    217.4 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1482.8 avail Mem 
+MiB Mem :   1817.2 total,   1562.4 free,    168.4 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1531.8 avail Mem 
 
-  12473 root      20   0  284688  65232   2908 R  50.0   3.5   0:00.99 mem.sh
-
-mem2.sh
-mem.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1466.1 free,    264.8 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1435.5 avail Mem 
-
-  12473 root      20   0  309240  89784   2908 R  53.3   4.8   0:01.39 mem.sh
+  12474 root      20   0  259872  40424   2916 R  53.3   2.2   0:00.60 mem2.sh
 
 mem.sh
 mem2.sh
@@ -51,49 +25,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1417.8 free,    313.0 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1387.2 avail Mem 
+MiB Mem :   1817.2 total,   1514.0 free,    216.8 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1483.4 avail Mem 
 
-  12473 root      20   0  333924 114336   2908 R  43.8   6.1   0:01.78 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1367.9 free,    362.9 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1337.3 avail Mem 
-
-  12473 root      20   0  359928 140472   2908 R  58.8   7.5   0:02.20 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1319.7 free,    411.2 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1289.0 avail Mem 
-
-  12473 root      20   0  384612 165024   2908 R  50.0   8.9   0:02.59 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1271.4 free,    459.4 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1240.8 avail Mem 
-
-  12473 root      20   0  408240 188784   2908 R  50.0  10.1   0:02.97 mem.sh
+  12474 root      20   0  284292  64712   2916 R  50.0   3.5   0:00.99 mem2.sh
 
 mem2.sh
 mem.sh
@@ -103,23 +38,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1223.4 free,    507.5 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1192.8 avail Mem 
+MiB Mem :   1817.2 total,   1466.7 free,    264.2 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1436.0 avail Mem 
 
-  12473 root      20   0  432924 213336   2908 R  53.3  11.5   0:03.38 mem.sh
-
-mem2.sh
-mem.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1175.2 free,    555.7 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1144.5 avail Mem 
-
-  12473 root      20   0  457608 238152   2908 R  46.7  12.8   0:03.77 mem.sh
+  12474 root      20   0  308052  88736   2916 R  43.8   4.8   0:01.37 mem2.sh
 
 mem.sh
 mem2.sh
@@ -129,23 +51,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1128.5 free,    602.3 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1097.9 avail Mem 
+MiB Mem :   1817.2 total,   1417.2 free,    313.7 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1386.5 avail Mem 
 
-  12473 root      20   0  481500 261912   2908 R  43.8  14.1   0:04.16 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1078.5 free,    652.3 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1047.9 avail Mem 
-
-  12473 root      20   0  506976 287520   2908 R  43.8  15.5   0:04.57 mem.sh
+  12474 root      20   0  333528 114080   2916 R  53.3   6.1   0:01.78 mem2.sh
 
 mem.sh
 mem2.sh
@@ -155,23 +64,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1032.1 free,    698.7 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1001.5 avail Mem 
+MiB Mem :   1817.2 total,   1368.5 free,    362.3 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1337.9 avail Mem 
 
-  12473 root      20   0  531000 311544   2908 R  53.3  16.7   0:04.96 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    982.8 free,    748.0 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    952.2 avail Mem 
-
-  12473 root      20   0  556212 336624   2908 R  56.2  18.1   0:05.37 mem.sh
+  12474 root      20   0  358872 139424   2916 R  38.9   7.5   0:02.18 mem2.sh
 
 mem.sh
 mem2.sh
@@ -181,23 +77,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    940.3 free,    790.6 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    909.7 avail Mem 
+MiB Mem :   1817.2 total,   1320.2 free,    410.6 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1289.6 avail Mem 
 
-  12473 root      20   0  577992 358536   2908 R  50.0  19.3   0:05.72 mem.sh
-
-mem2.sh
-mem.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    888.6 free,    842.2 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    858.0 avail Mem 
-
-  12473 root      20   0  604128 384672   2908 R  46.7  20.7   0:06.14 mem.sh
+  12474 root      20   0  383424 163976   2916 R  46.7   8.8   0:02.57 mem2.sh
 
 mem.sh
 mem2.sh
@@ -207,23 +90,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    845.7 free,    885.1 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    815.1 avail Mem 
+MiB Mem :   1817.2 total,   1272.3 free,    458.6 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1241.7 avail Mem 
 
-  12473 root      20   0  626172 406848   2908 R  50.0  21.9   0:06.49 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    791.1 free,    939.7 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    760.5 avail Mem 
-
-  12473 root      20   0  654288 434832   2908 R  50.0  23.4   0:06.94 mem.sh
+  12474 root      20   0  406920 187472   2916 R  37.5  10.1   0:02.95 mem2.sh
 
 mem2.sh
 mem.sh
@@ -233,10 +103,23 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    749.9 free,    980.9 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    719.3 avail Mem 
+MiB Mem :   1817.2 total,   1223.9 free,    506.9 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1193.3 avail Mem 
 
-  12473 root      20   0  675804 456216   2908 R  33.3  24.5   0:07.29 mem.sh
+  12474 root      20   0  432000 212552   2916 R  43.8  11.4   0:03.37 mem2.sh
+
+mem2.sh
+mem.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,   1175.7 free,    555.1 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1145.1 avail Mem 
+
+  12474 root      20   0  458136 238688   2916 R  50.0  12.8   0:03.79 mem2.sh
 
 mem.sh
 mem2.sh
@@ -246,23 +129,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    695.6 free,   1035.2 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    665.0 avail Mem 
+MiB Mem :   1817.2 total,   1127.9 free,    603.0 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1097.3 avail Mem 
 
-  12473 root      20   0  703392 483936   2908 R  53.3  26.0   0:07.74 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    649.5 free,   1081.3 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    618.9 avail Mem 
-
-  12473 root      20   0  726756 507168   2908 R  53.3  27.3   0:08.11 mem.sh
+  12474 root      20   0  481500 261920   2916 R  50.0  14.1   0:04.17 mem2.sh
 
 mem.sh
 mem2.sh
@@ -272,23 +142,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    600.9 free,   1130.0 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    570.3 avail Mem 
+MiB Mem :   1817.2 total,   1078.0 free,    652.8 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1047.4 avail Mem 
 
-  12473 root      20   0  752100 532512   2908 R  53.3  28.6   0:08.52 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    554.3 free,   1176.5 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    523.7 avail Mem 
-
-  12473 root      20   0  775596 556008   2908 R  50.0  29.9   0:08.90 mem.sh
+  12474 root      20   0  506976 287528   2916 R  46.7  15.5   0:04.57 mem2.sh
 
 mem.sh
 mem2.sh
@@ -298,23 +155,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    505.0 free,   1225.8 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    474.4 avail Mem 
+MiB Mem :   1817.2 total,   1032.9 free,    698.0 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.   1002.3 avail Mem 
 
-  12473 root      20   0  800148 580824   2908 R  37.5  31.2   0:09.29 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    457.3 free,   1273.5 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    426.7 avail Mem 
-
-  12473 root      20   0  824700 605112   2908 R  43.8  32.5   0:09.68 mem.sh
+  12474 root      20   0  529680 310232   2916 R  50.0  16.7   0:04.95 mem2.sh
 
 mem.sh
 mem2.sh
@@ -324,23 +168,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    407.4 free,   1323.4 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    376.8 avail Mem 
+MiB Mem :   1817.2 total,    983.4 free,    747.4 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    952.8 avail Mem 
 
-  12473 root      20   0  851496 632040   2908 R  53.3  34.0   0:10.11 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    363.5 free,   1367.3 used,     86.3 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    332.9 avail Mem 
-
-  12473 root      20   0  873144 653688   2908 R  56.2  35.1   0:10.47 mem.sh
+  12474 root      20   0  554760 335312   2916 R  37.5  18.0   0:05.35 mem2.sh
 
 mem.sh
 mem2.sh
@@ -350,10 +181,179 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    309.4 free,   1421.5 used,     86.4 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    278.8 avail Mem 
+MiB Mem :   1817.2 total,    940.9 free,    790.0 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    910.2 avail Mem 
 
-  12473 root      20   0  900072 680616   2908 R  43.8  36.6   0:10.89 mem.sh
+  12474 root      20   0  576540 356960   2916 R  37.5  19.2   0:05.70 mem2.sh
+
+mem2.sh
+mem.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    887.9 free,    842.9 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    857.3 avail Mem 
+
+  12474 root      20   0  603996 384416   2916 R  43.8  20.7   0:06.14 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    846.2 free,    884.6 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    815.6 avail Mem 
+
+  12474 root      20   0  625116 405536   2916 R  43.8  21.8   0:06.48 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    791.9 free,    938.9 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    761.3 avail Mem 
+
+  12474 root      20   0  652704 433256   2916 R  43.8  23.3   0:06.93 mem2.sh
+
+mem2.sh
+mem.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    749.4 free,    981.5 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    718.8 avail Mem 
+
+  12474 root      20   0  675804 456224   2916 R  47.4  24.5   0:07.30 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    696.2 free,   1034.7 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    665.6 avail Mem 
+
+  12474 root      20   0  701412 481832   2916 R  50.0  25.9   0:07.72 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    650.2 free,   1080.7 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    619.6 avail Mem 
+
+  12474 root      20   0  724908 505328   2916 R  37.5  27.2   0:08.09 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    601.4 free,   1129.4 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    570.8 avail Mem 
+
+  12474 root      20   0  750252 530672   2916 R  46.7  28.5   0:08.51 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    555.1 free,   1175.7 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    524.5 avail Mem 
+
+  12474 root      20   0  773616 554168   2916 R  43.8  29.8   0:08.89 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    504.4 free,   1226.4 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    473.8 avail Mem 
+
+  12474 root      20   0  799884 580568   2916 R  56.2  31.2   0:09.31 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    456.7 free,   1274.1 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    426.1 avail Mem 
+
+  12474 root      20   0  824304 604856   2916 R  50.0  32.5   0:09.70 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    406.8 free,   1324.1 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    376.2 avail Mem 
+
+  12474 root      20   0  849384 629936   2916 R  37.5  33.9   0:10.10 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    364.1 free,   1366.7 used,     86.3 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    333.5 avail Mem 
+
+  12474 root      20   0  871032 651584   2916 R  43.8  35.0   0:10.45 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    309.9 free,   1420.9 used,     86.4 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    279.3 avail Mem 
+
+  12474 root      20   0  899412 679832   2916 R  53.3  36.5   0:10.90 mem2.sh
 
 mem.sh
 mem2.sh
@@ -363,36 +363,10 @@ kthreadd
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    266.4 free,   1464.4 used,     86.4 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    235.8 avail Mem 
+MiB Mem :   1817.2 total,    267.0 free,   1463.9 used,     86.4 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    236.4 avail Mem 
 
-  12473 root      20   0  921984 702528   2908 R  43.8  37.8   0:11.25 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    214.4 free,   1516.4 used,     86.4 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    183.8 avail Mem 
-
-  12473 root      20   0  949704 730248   2908 R  31.6  39.2   0:11.69 mem.sh
-
-mem2.sh
-mem.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,    171.8 free,   1559.0 used,     86.4 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.    141.2 avail Mem 
-
-  12473 root      20   0  971220 751896   2908 R  44.4  40.4   0:12.04 mem.sh
+  12474 root      20   0  921456 702008   2916 R  53.3  37.7   0:11.26 mem2.sh
 
 mem.sh
 mem2.sh
@@ -402,10 +376,23 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,    118.3 free,   1612.6 used,     86.4 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.     87.6 avail Mem 
+MiB Mem :   1817.2 total,    213.9 free,   1516.9 used,     86.4 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    183.3 avail Mem 
 
-  12473 root      20   0  998676 779088   2908 R  50.0  41.9   0:12.48 mem.sh
+  12474 root      20   0  949176 729728   2916 R  47.4  39.2   0:11.70 mem2.sh
+
+mem2.sh
+mem.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,    171.0 free,   1559.8 used,     86.4 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.    140.4 avail Mem 
+
+  12474 root      20   0  970296 750848   2916 R  52.9  40.4   0:12.05 mem2.sh
 
 mem.sh
 mem2.sh
@@ -415,10 +402,10 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     75.5 free,   1655.3 used,     86.4 buff/cache
-MiB Swap:    820.0 total,    741.8 free,     78.2 used.     44.9 avail Mem 
+MiB Mem :   1817.2 total,    119.1 free,   1611.8 used,     86.4 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.     88.4 avail Mem 
 
-  12473 root      20   0 1020192 800736   2908 R  47.1  43.0   0:12.83 mem.sh
+  12474 root      20   0  996168 776720   2916 R  43.8  41.7   0:12.47 mem2.sh
 
 mem.sh
 mem2.sh
@@ -428,14 +415,27 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     62.9 free,   1710.3 used,     44.0 buff/cache
-MiB Swap:    820.0 total,    739.0 free,     81.0 used.     11.1 avail Mem 
+MiB Mem :   1817.2 total,     76.2 free,   1654.6 used,     86.4 buff/cache
+MiB Swap:    820.0 total,    741.8 free,     78.2 used.     45.6 avail Mem 
+
+  12474 root      20   0 1019136 799688   2916 R  52.9  43.0   0:12.84 mem2.sh
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
 
 ===================
-  12473 root      20   0 1062828 832280   2616 R  38.1  44.7   0:13.53 mem.sh
+MiB Mem :   1817.2 total,     69.5 free,   1701.6 used,     46.1 buff/cache
+MiB Swap:    820.0 total,    739.5 free,     80.5 used.     18.8 avail Mem 
 
-MiB Mem :   1817.2 total,     70.1 free,   1703.6 used,     43.5 buff/cache
-MiB Swap:    820.0 total,    686.9 free,    133.1 used.     18.1 avail Mem 
+===================
+  12474 root      20   0 1061640 801568   2620 R  31.8  43.1   0:13.54 mem2.sh
+
+MiB Mem :   1817.2 total,     70.8 free,   1702.9 used,     43.5 buff/cache
+MiB Swap:    820.0 total,    686.9 free,    133.1 used.     18.7 avail Mem 
 
 mem.sh
 mem2.sh
@@ -444,24 +444,24 @@ systemd
 kthreadd
 ===================
 
-  12473 root      20   0 1073124 831260   2616 R  40.0  44.7   0:13.70 mem.sh
+  12474 root      20   0 1072728 802720   2620 R  47.1  43.1   0:13.72 mem2.sh
 
-mem.sh
 mem2.sh
+mem.sh
 systemd
 kthreadd
 rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     79.2 free,   1691.5 used,     46.5 buff/cache
-MiB Swap:    820.0 total,    604.4 free,    215.6 used.     28.6 avail Mem 
+MiB Mem :   1817.2 total,     78.7 free,   1692.0 used,     46.5 buff/cache
+MiB Swap:    820.0 total,    604.4 free,    215.6 used.     28.1 avail Mem 
 
 ===================
-  12473 root      20   0 1108764 835728   2616 R  50.0  44.9   0:14.28 mem.sh
+  12474 root      20   0 1107444 805080   2620 R  40.0  43.3   0:14.29 mem2.sh
 
-MiB Mem :   1817.2 total,     73.7 free,   1697.0 used,     46.5 buff/cache
-MiB Swap:    820.0 total,    584.6 free,    235.4 used.     23.1 avail Mem 
+MiB Mem :   1817.2 total,     73.3 free,   1697.4 used,     46.6 buff/cache
+MiB Swap:    820.0 total,    584.6 free,    235.4 used.     22.8 avail Mem 
 
 mem2.sh
 mem.sh
@@ -470,7 +470,7 @@ systemd
 kthreadd
 ===================
 
-  12473 root      20   0 1118532 828276   2616 R  38.9  44.5   0:14.44 mem.sh
+  12474 root      20   0 1119456 800264   2620 R  43.8  43.0   0:14.48 mem2.sh
 
 mem.sh
 mem2.sh
@@ -480,14 +480,14 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     74.6 free,   1697.7 used,     44.9 buff/cache
-MiB Swap:    820.0 total,    518.2 free,    301.8 used.     23.3 avail Mem 
+MiB Mem :   1817.2 total,     75.2 free,   1697.1 used,     44.9 buff/cache
+MiB Swap:    820.0 total,    518.2 free,    301.8 used.     23.8 avail Mem 
+
+  12474 root      20   0 1155096 799160   2620 R  40.0  42.9   0:15.05 mem2.sh
 
 ===================
-  12473 root      20   0 1155888 828616   2616 R  46.7  44.5   0:15.04 mem.sh
-
-MiB Mem :   1817.2 total,     67.3 free,   1702.3 used,     47.6 buff/cache
-MiB Swap:    820.0 total,    494.9 free,    325.1 used.     17.3 avail Mem 
+MiB Mem :   1817.2 total,     74.0 free,   1695.3 used,     47.9 buff/cache
+MiB Swap:    820.0 total,    490.1 free,    329.9 used.     24.1 avail Mem 
 
 mem2.sh
 mem.sh
@@ -496,7 +496,7 @@ kswapd0
 systemd
 ===================
 
-  12473 root      20   0 1167372 833056   2616 R  47.1  44.8   0:15.23 mem.sh
+  12474 root      20   0 1166712 804320   2620 R  50.0  43.2   0:15.25 mem2.sh
 
 mem2.sh
 mem.sh
@@ -506,14 +506,14 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     77.4 free,   1692.1 used,     47.7 buff/cache
-MiB Swap:    820.0 total,    416.0 free,    404.0 used.     27.5 avail Mem 
+MiB Mem :   1817.2 total,     78.1 free,   1691.3 used,     47.7 buff/cache
+MiB Swap:    820.0 total,    416.0 free,    404.0 used.     28.2 avail Mem 
 
 ===================
-  12473 root      20   0 1204860 833268   2616 R  43.8  44.8   0:15.83 mem.sh
+  12474 root      20   0 1203936 805036   2620 R  43.8  43.3   0:15.85 mem2.sh
 
-MiB Mem :   1817.2 total,     74.4 free,   1695.2 used,     47.6 buff/cache
-MiB Swap:    820.0 total,    394.8 free,    425.2 used.     24.4 avail Mem 
+MiB Mem :   1817.2 total,     73.8 free,   1695.8 used,     47.6 buff/cache
+MiB Swap:    820.0 total,    394.8 free,    425.2 used.     23.8 avail Mem 
 
 mem.sh
 mem2.sh
@@ -522,7 +522,7 @@ kthreadd
 rcu_gp
 ===================
 
-  12473 root      20   0 1214892 833864   2616 R  37.5  44.8   0:15.99 mem.sh
+  12474 root      20   0 1214760 805912   2620 R  50.0  43.3   0:16.03 mem2.sh
 
 mem.sh
 mem2.sh
@@ -532,14 +532,14 @@ systemd
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     70.2 free,   1701.4 used,     45.5 buff/cache
-MiB Swap:    820.0 total,    327.6 free,    492.4 used.     19.2 avail Mem 
+MiB Mem :   1817.2 total,     70.7 free,   1700.9 used,     45.6 buff/cache
+MiB Swap:    820.0 total,    327.6 free,    492.4 used.     19.7 avail Mem 
 
 ===================
-  12473 root      20   0 1253700 827304   2616 R  41.2  44.5   0:16.62 mem.sh
+  12474 root      20   0 1252776 797316   2620 R  33.3  42.8   0:16.63 mem2.sh
 
-MiB Mem :   1817.2 total,     72.8 free,   1697.9 used,     46.4 buff/cache
-MiB Swap:    820.0 total,    304.5 free,    515.5 used.     22.3 avail Mem 
+MiB Mem :   1817.2 total,     72.2 free,   1698.5 used,     46.4 buff/cache
+MiB Swap:    820.0 total,    304.5 free,    515.5 used.     21.7 avail Mem 
 
 mem.sh
 mem2.sh
@@ -548,7 +548,7 @@ kthreadd
 rcu_gp
 ===================
 
-  12473 root      20   0 1262280 835752   2616 R  41.2  44.9   0:16.76 mem.sh
+  12474 root      20   0 1262016 806556   2620 R  47.1  43.3   0:16.79 mem2.sh
 
 mem.sh
 mem2.sh
@@ -558,14 +558,14 @@ kthreadd
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     72.1 free,   1700.4 used,     44.7 buff/cache
-MiB Swap:    820.0 total,    237.7 free,    582.3 used.     20.6 avail Mem 
+MiB Mem :   1817.2 total,     72.6 free,   1699.8 used,     44.7 buff/cache
+MiB Swap:    820.0 total,    237.7 free,    582.3 used.     21.2 avail Mem 
 
 ===================
-  12473 root      20   0 1298976 830468   2616 R  41.2  44.6   0:17.36 mem.sh
+  12474 root      20   0 1297920 800348   2620 R  35.3  43.0   0:17.38 mem2.sh
 
-MiB Mem :   1817.2 total,     72.4 free,   1698.9 used,     45.9 buff/cache
-MiB Swap:    820.0 total,    215.4 free,    604.6 used.     21.5 avail Mem 
+MiB Mem :   1817.2 total,     72.9 free,   1698.3 used,     46.0 buff/cache
+MiB Swap:    820.0 total,    215.4 free,    604.6 used.     22.1 avail Mem 
 
 mem.sh
 mem2.sh
@@ -574,33 +574,7 @@ kthreadd
 rcu_gp
 ===================
 
-  12473 root      20   0 1309140 832796   2616 R  41.2  44.8   0:17.52 mem.sh
-
-mem.sh
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,     80.8 free,   1691.0 used,     45.4 buff/cache
-MiB Swap:    820.0 total,    159.4 free,    660.6 used.     29.7 avail Mem 
-
-===================
-MiB Mem :   1817.2 total,     73.8 free,   1697.6 used,     45.8 buff/cache
-MiB Swap:    820.0 total,    118.9 free,    701.1 used.     22.9 avail Mem 
-
-  12473 root      20   0 1345308 817084   2616 R  33.3  43.9   0:18.11 mem.sh
-
-  12473 root      20   0 1350588 822628   2616 R  41.2  44.2   0:18.20 mem.sh
-
-mem2.sh
-mem.sh
-systemd
-kthreadd
-rcu_gp
-===================
+  12474 root      20   0 1307688 803380   2620 R  41.2  43.2   0:17.55 mem2.sh
 
 mem.sh
 mem2.sh
@@ -610,14 +584,40 @@ rcu_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,     74.1 free,   1697.9 used,     45.2 buff/cache
-MiB Swap:    820.0 total,     50.4 free,    769.6 used.     22.9 avail Mem 
+MiB Mem :   1817.2 total,     81.7 free,   1690.1 used,     45.4 buff/cache
+MiB Swap:    820.0 total,    159.4 free,    660.6 used.     30.6 avail Mem 
 
 ===================
-  12473 root      20   0 1391376 823704   2616 R  43.8  44.3   0:18.86 mem.sh
+MiB Mem :   1817.2 total,     72.2 free,   1699.2 used,     45.8 buff/cache
+MiB Swap:    820.0 total,    118.9 free,    701.1 used.     21.3 avail Mem 
 
-MiB Mem :   1817.2 total,     69.3 free,   1702.9 used,     45.0 buff/cache
-MiB Swap:    820.0 total,     40.5 free,    779.5 used.     18.1 avail Mem 
+  12474 root      20   0 1345440 801668   2620 R  43.8  43.1   0:18.16 mem2.sh
+
+  12474 root      20   0 1351380 807380   2620 R  50.0  43.4   0:18.25 mem2.sh
+
+mem2.sh
+mem.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+mem.sh
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,     74.8 free,   1697.1 used,     45.3 buff/cache
+MiB Swap:    820.0 total,     50.4 free,    769.6 used.     23.6 avail Mem 
+
+===================
+  12474 root      20   0 1391244 807608   2620 R  41.2  43.4   0:18.90 mem2.sh
+
+MiB Mem :   1817.2 total,     69.8 free,   1702.3 used,     45.1 buff/cache
+MiB Swap:    820.0 total,     40.5 free,    779.5 used.     18.6 avail Mem 
 
 mem.sh
 mem2.sh
@@ -626,7 +626,7 @@ systemd
 kthreadd
 ===================
 
-  12473 root      20   0 1399692 822040   2616 R  50.0  44.2   0:18.99 mem.sh
+  12474 root      20   0 1399296 806040   2620 R  29.4  43.3   0:19.03 mem2.sh
 
 mem.sh
 mem2.sh
@@ -637,15 +637,22 @@ kthreadd
 
 ===================
 ===================
-MiB Mem :   1817.2 total,    804.1 free,    958.8 used,     54.3 buff/cache
+MiB Mem :   1817.2 total,    804.0 free,    958.9 used,     54.3 buff/cache
 MiB Swap:    820.0 total,    360.4 free,    459.6 used.    757.4 avail Mem 
 
 MiB Mem :   1817.2 total,    804.1 free,    958.8 used,     54.3 buff/cache
 MiB Swap:    820.0 total,    360.4 free,    459.6 used.    757.4 avail Mem 
 
+  12474 root      20   0 1490904 884656   1604 R  89.5  47.5   0:20.67 mem2.sh
 
+  12474 root      20   0 1490904 884656   1604 R  94.4  47.5   0:20.67 mem2.sh
 
-
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
 
 mem2.sh
 tuned
@@ -654,24 +661,17 @@ kthreadd
 rcu_gp
 ===================
 
-mem2.sh
-tuned
-systemd
-kthreadd
-rcu_gp
-===================
-
 ===================
 ===================
-MiB Mem :   1817.2 total,    701.3 free,   1056.1 used,     59.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    657.4 avail Mem 
+MiB Mem :   1817.2 total,    702.0 free,   1055.3 used,     59.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    658.1 avail Mem 
 
-MiB Mem :   1817.2 total,    703.7 free,   1053.7 used,     59.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    659.8 avail Mem 
+MiB Mem :   1817.2 total,    702.9 free,   1054.5 used,     59.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    659.0 avail Mem 
 
+  12474 root      20   0 1590432 984184   1604 R  99.9  52.9   0:22.27 mem2.sh
 
-
-
+  12474 root      20   0 1590432 984184   1604 R  90.0  52.9   0:22.27 mem2.sh
 
 mem2.sh
 systemd
@@ -689,41 +689,15 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,    606.7 free,   1150.7 used,     59.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    562.8 avail Mem 
+MiB Mem :   1817.2 total,    607.4 free,   1150.0 used,     59.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    563.5 avail Mem 
 
-MiB Mem :   1817.2 total,    608.2 free,   1149.2 used,     59.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    564.3 avail Mem 
+MiB Mem :   1817.2 total,    609.0 free,   1148.4 used,     59.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    565.1 avail Mem 
 
+  12474 root      20   0 1686792   1.0g   1604 R  93.8  58.1   0:23.80 mem2.sh
 
-
-
-
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,    510.7 free,   1246.7 used,     59.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    466.8 avail Mem 
-
-MiB Mem :   1817.2 total,    512.9 free,   1244.4 used,     59.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    469.1 avail Mem 
-
-
-
-
+  12474 root      20   0 1686792   1.0g   1604 R  88.2  58.1   0:23.80 mem2.sh
 
 mem2.sh
 systemd
@@ -741,41 +715,15 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,    413.6 free,   1341.8 used,     61.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    370.6 avail Mem 
+MiB Mem :   1817.2 total,    511.3 free,   1246.0 used,     59.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    467.4 avail Mem 
 
-MiB Mem :   1817.2 total,    414.3 free,   1341.1 used,     61.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    371.4 avail Mem 
+MiB Mem :   1817.2 total,    512.2 free,   1245.2 used,     59.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    468.3 avail Mem 
 
+  12474 root      20   0 1784340   1.1g   1604 R  88.2  63.3   0:25.36 mem2.sh
 
-
-
-
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,    321.3 free,   1434.0 used,     61.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    278.4 avail Mem 
-
-MiB Mem :   1817.2 total,    320.7 free,   1434.7 used,     61.8 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    277.8 avail Mem 
-
-
-
-
+  12474 root      20   0 1784340   1.1g   1604 R  83.3  63.3   0:25.36 mem2.sh
 
 mem2.sh
 systemd
@@ -793,41 +741,15 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,    223.5 free,   1531.8 used,     61.9 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    180.6 avail Mem 
+MiB Mem :   1817.2 total,    415.2 free,   1340.2 used,     61.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    372.2 avail Mem 
 
-MiB Mem :   1817.2 total,    225.9 free,   1529.4 used,     61.9 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.    183.0 avail Mem 
+MiB Mem :   1817.2 total,    416.0 free,   1339.4 used,     61.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    373.1 avail Mem 
 
+  12474 root      20   0 1881492   1.2g   1604 R  83.3  68.5   0:26.90 mem2.sh
 
-
-
-
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-mem2.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,    128.4 free,   1626.8 used,     61.9 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.     85.6 avail Mem 
-
-MiB Mem :   1817.2 total,    130.0 free,   1625.2 used,     61.9 buff/cache
-MiB Swap:    820.0 total,    360.4 free,    459.6 used.     87.2 avail Mem 
-
-
-
-
+  12474 root      20   0 1881492   1.2g   1604 R  88.2  68.5   0:26.90 mem2.sh
 
 mem2.sh
 systemd
@@ -845,15 +767,93 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,     82.1 free,   1674.4 used,     60.7 buff/cache
+MiB Mem :   1817.2 total,    322.1 free,   1433.3 used,     61.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    279.2 avail Mem 
+
+MiB Mem :   1817.2 total,    322.9 free,   1432.4 used,     61.8 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    280.1 avail Mem 
+
+  12474 root      20   0 1977720   1.3g   1604 R  99.9  73.7   0:28.44 mem2.sh
+
+  12474 root      20   0 1977720   1.3g   1604 R  89.5  73.7   0:28.44 mem2.sh
+
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,    224.2 free,   1531.0 used,     61.9 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    181.4 avail Mem 
+
+MiB Mem :   1817.2 total,    225.0 free,   1530.3 used,     61.9 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.    182.2 avail Mem 
+
+  12474 root      20   0 2075664   1.4g   1604 R  88.9  79.0   0:30.00 mem2.sh
+
+  12474 root      20   0 2075664   1.4g   1604 R  94.1  79.0   0:30.00 mem2.sh
+
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,    129.2 free,   1626.1 used,     61.9 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.     86.3 avail Mem 
+
+MiB Mem :   1817.2 total,    130.8 free,   1624.5 used,     61.9 buff/cache
+MiB Swap:    820.0 total,    360.4 free,    459.6 used.     87.9 avail Mem 
+
+  12474 root      20   0 2174664   1.5g   1604 R  88.9  84.3   0:31.57 mem2.sh
+
+  12474 root      20   0 2174664   1.5g   1604 R  84.2  84.3   0:31.57 mem2.sh
+
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+mem2.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,     83.6 free,   1672.9 used,     60.7 buff/cache
+MiB Swap:    820.0 total,    313.5 free,    506.5 used.     40.1 avail Mem 
+
+MiB Mem :   1817.2 total,     82.1 free,   1674.5 used,     60.6 buff/cache
 MiB Swap:    820.0 total,    313.5 free,    506.5 used.     38.6 avail Mem 
 
-MiB Mem :   1817.2 total,     82.8 free,   1673.7 used,     60.7 buff/cache
-MiB Swap:    820.0 total,    313.5 free,    506.5 used.     39.4 avail Mem 
+  12474 root      20   0 2268384   1.5g   1604 R  89.5  86.7   0:33.07 mem2.sh
 
-
-
-
+  12474 root      20   0 2268384   1.5g   1604 R  94.4  86.7   0:33.07 mem2.sh
 
 mem2.sh
 kswapd0
@@ -871,41 +871,15 @@ rcu_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,     72.5 free,   1686.6 used,     58.1 buff/cache
-MiB Swap:    820.0 total,    238.7 free,    581.3 used.     27.7 avail Mem 
+MiB Mem :   1817.2 total,     72.0 free,   1687.2 used,     58.0 buff/cache
+MiB Swap:    820.0 total,    238.7 free,    581.3 used.     27.2 avail Mem 
 
-MiB Mem :   1817.2 total,     73.3 free,   1685.8 used,     58.1 buff/cache
-MiB Swap:    820.0 total,    238.7 free,    581.3 used.     28.5 avail Mem 
+MiB Mem :   1817.2 total,     74.5 free,   1684.6 used,     58.1 buff/cache
+MiB Swap:    820.0 total,    238.7 free,    581.3 used.     29.7 avail Mem 
 
+  12474 root      20   0 2357880   1.5g   1604 R  76.2  86.6   0:34.54 mem2.sh
 
-
-
-
-mem2.sh
-kswapd0
-systemd
-kthreadd
-rcu_gp
-===================
-
-mem2.sh
-kswapd0
-systemd
-kthreadd
-rcu_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,     65.5 free,   1698.5 used,     53.1 buff/cache
-MiB Swap:    820.0 total,    149.5 free,    670.5 used.     18.3 avail Mem 
-
-MiB Mem :   1817.2 total,     66.8 free,   1697.0 used,     53.4 buff/cache
-MiB Swap:    820.0 total,    149.5 free,    670.5 used.     19.7 avail Mem 
-
-
-
-
+  12474 root      20   0 2357880   1.5g   1604 R  76.2  86.6   0:34.54 mem2.sh
 
 mem2.sh
 kswapd0
@@ -923,15 +897,41 @@ rcu_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,     79.5 free,   1686.9 used,     50.9 buff/cache
-MiB Swap:    820.0 total,     59.3 free,    760.7 used.     31.1 avail Mem 
+MiB Mem :   1817.2 total,     66.1 free,   1697.7 used,     53.4 buff/cache
+MiB Swap:    820.0 total,    149.5 free,    670.5 used.     19.0 avail Mem 
 
-MiB Mem :   1817.2 total,     81.6 free,   1684.7 used,     50.9 buff/cache
-MiB Swap:    820.0 total,     59.3 free,    760.7 used.     33.2 avail Mem 
+MiB Mem :   1817.2 total,     67.7 free,   1696.1 used,     53.4 buff/cache
+MiB Swap:    820.0 total,    149.5 free,    670.5 used.     20.6 avail Mem 
 
+  12474 root      20   0 2450280   1.5g   1604 R  99.9  87.1   0:36.03 mem2.sh
 
+  12474 root      20   0 2450280   1.5g   1604 R  94.1  87.1   0:36.03 mem2.sh
 
+mem2.sh
+kswapd0
+systemd
+kthreadd
+rcu_gp
+===================
 
+mem2.sh
+kswapd0
+systemd
+kthreadd
+rcu_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,     79.0 free,   1687.4 used,     50.8 buff/cache
+MiB Swap:    820.0 total,     59.3 free,    760.7 used.     30.6 avail Mem 
+
+MiB Mem :   1817.2 total,     80.5 free,   1685.8 used,     50.9 buff/cache
+MiB Swap:    820.0 total,     59.3 free,    760.7 used.     32.2 avail Mem 
+
+  12474 root      20   0 2538984   1.5g   1604 R  93.8  87.3   0:37.46 mem2.sh
+
+  12474 root      20   0 2538984   1.5g   1604 R  88.2  87.3   0:37.46 mem2.sh
 
 mem2.sh
 kswapd0
@@ -952,8 +952,8 @@ rcu_gp
 MiB Mem :   1817.2 total,   1665.0 free,    101.6 used,     50.5 buff/cache
 MiB Swap:    820.0 total,    736.0 free,     84.0 used.   1616.5 avail Mem 
 
-MiB Mem :   1817.2 total,   1665.0 free,    101.5 used,     50.7 buff/cache
-MiB Swap:    820.0 total,    736.0 free,     84.0 used.   1616.4 avail Mem 
+MiB Mem :   1817.2 total,   1665.0 free,    101.6 used,     50.5 buff/cache
+MiB Swap:    820.0 total,    736.0 free,     84.0 used.   1616.5 avail Mem 
 
 
 
@@ -975,11 +975,11 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1655.8 free,    101.3 used,     60.1 buff/cache
-MiB Swap:    820.0 total,    736.0 free,     84.0 used.   1612.0 avail Mem 
+MiB Mem :   1817.2 total,   1655.5 free,    101.6 used,     60.1 buff/cache
+MiB Swap:    820.0 total,    736.0 free,     84.0 used.   1611.7 avail Mem 
 
-MiB Mem :   1817.2 total,   1656.9 free,    100.2 used,     60.1 buff/cache
-MiB Swap:    820.0 total,    736.0 free,     84.0 used.   1613.1 avail Mem 
+MiB Mem :   1817.2 total,   1656.3 free,    100.8 used,     60.1 buff/cache
+MiB Swap:    820.0 total,    736.0 free,     84.0 used.   1612.5 avail Mem 
 
 
 
@@ -1004,8 +1004,34 @@ rcu_par_gp
 MiB Mem :   1817.2 total,   1656.3 free,    100.6 used,     60.2 buff/cache
 MiB Swap:    820.0 total,    736.3 free,     83.7 used.   1612.6 avail Mem 
 
-MiB Mem :   1817.2 total,   1656.2 free,    100.7 used,     60.2 buff/cache
-MiB Swap:    820.0 total,    736.3 free,     83.7 used.   1612.5 avail Mem 
+MiB Mem :   1817.2 total,   1656.4 free,    100.6 used,     60.2 buff/cache
+MiB Swap:    820.0 total,    736.3 free,     83.7 used.   1612.6 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.7 free,    101.3 used,     64.1 buff/cache
+MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
+
+MiB Mem :   1817.2 total,   1651.6 free,    101.5 used,     64.1 buff/cache
+MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem 
 
 
 
@@ -1030,32 +1056,6 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1651.7 free,    101.3 used,     64.1 buff/cache
 MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
 
-MiB Mem :   1817.2 total,   1651.6 free,    101.4 used,     64.1 buff/cache
-MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1651.8 free,    101.2 used,     64.1 buff/cache
-MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1610.1 avail Mem 
-
 MiB Mem :   1817.2 total,   1651.7 free,    101.4 used,     64.1 buff/cache
 MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
 
@@ -1070,11 +1070,11 @@ kthreadd
 rcu_gp
 ===================
 
-tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 ===================
@@ -1108,34 +1108,34 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1651.7 free,    101.3 used,     64.2 buff/cache
 MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
 
-MiB Mem :   1817.2 total,   1651.7 free,    101.3 used,     64.2 buff/cache
-MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1651.7 free,    101.3 used,     64.2 buff/cache
-MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
-
 MiB Mem :   1817.2 total,   1651.6 free,    101.4 used,     64.2 buff/cache
+MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.7 free,    101.3 used,     64.2 buff/cache
 MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
+
+MiB Mem :   1817.2 total,   1651.4 free,    101.5 used,     64.3 buff/cache
+MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.7 avail Mem 
 
 
 
@@ -1157,8 +1157,8 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1651.6 free,    101.3 used,     64.3 buff/cache
-MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.9 avail Mem 
+MiB Mem :   1817.2 total,   1651.5 free,    101.4 used,     64.3 buff/cache
+MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem 
 
 MiB Mem :   1817.2 total,   1651.5 free,    101.4 used,     64.3 buff/cache
 MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem 
@@ -1219,11 +1219,11 @@ MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem
 
 
 
+sssd_nss
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 systemd
@@ -1238,8 +1238,8 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1651.5 free,    101.3 used,     64.3 buff/cache
 MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem 
 
-MiB Mem :   1817.2 total,   1651.4 free,    101.4 used,     64.3 buff/cache
-MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.8 avail Mem 
+MiB Mem :   1817.2 total,   1651.3 free,    101.5 used,     64.3 buff/cache
+MiB Swap:    820.0 total,    736.5 free,     83.5 used.   1609.6 avail Mem 
 
 
 
@@ -1252,68 +1252,68 @@ rcu_gp
 rcu_par_gp
 ===================
 
-tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.7 free,    101.9 used,     64.5 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.6 free,    102.1 used,     64.5 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
 MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.7 free,    101.9 used,     64.5 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.7 free,    101.9 used,     64.5 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
@@ -1339,7 +1339,7 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
+MiB Mem :   1817.2 total,   1650.7 free,    101.9 used,     64.5 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
@@ -1376,10 +1376,62 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem
 
 
 tuned
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.7 free,    101.9 used,     64.5 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.8 free,    101.8 used,     64.5 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.2 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.6 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.1 used,     64.6 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 tuned
@@ -1387,58 +1439,6 @@ systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.7 free,    102.0 used,     64.5 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.1 used,     64.6 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.6 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
@@ -1453,11 +1453,11 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem
 
 
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 systemd
@@ -1496,7 +1496,7 @@ kworker/0:0H-events_highpri
 ===================
 ===================
 MiB Mem :   1817.2 total,   1650.5 free,    102.1 used,     64.6 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.5 free,    102.1 used,     64.6 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
@@ -1510,32 +1510,6 @@ systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-===================
-
-rcu_sched
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.1 used,     64.6 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.6 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 systemd
@@ -1557,6 +1531,32 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem
 
 
 
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.6 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.6 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
 tuned
 systemd
 kthreadd
@@ -1573,11 +1573,11 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
 
 
@@ -1599,11 +1599,11 @@ rcu_par_gp
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.7 free,    101.8 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
 
 
 
@@ -1625,11 +1625,11 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
 
 
 
@@ -1642,11 +1642,11 @@ rcu_gp
 rcu_par_gp
 ===================
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
@@ -1681,7 +1681,7 @@ MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
 
 
@@ -1692,6 +1692,32 @@ systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.3 free,    102.2 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 systemd
@@ -1729,28 +1755,28 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.1 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
 
 
 
 
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
 
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
-===================
-
-tuned
-watcher.sh
-systemd
-kthreadd
-rcu_gp
 ===================
 
 ===================
@@ -1765,6 +1791,13 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem
 
 
 
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
 systemd
 kthreadd
 rcu_gp
@@ -1772,20 +1805,13 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
-===================
-===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
 
@@ -1810,32 +1836,6 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-kworker/0:1-events
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.7 free,    101.8 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.2 avail Mem 
-
 MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
@@ -1859,21 +1859,21 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.7 free,    101.8 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.2 avail Mem 
+MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
 
 
 
+sssd_nss
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 sssd_nss
@@ -1885,10 +1885,10 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.7 free,    101.8 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.2 avail Mem 
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
@@ -1902,42 +1902,16 @@ rcu_gp
 rcu_par_gp
 ===================
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.7 free,    101.8 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.2 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
@@ -1966,6 +1940,32 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
+MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.6 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
@@ -1980,24 +1980,31 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
 tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
 ===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
 
 systemd
 kthreadd
@@ -2006,7 +2013,52 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
-ksoftirqd/0
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1651.4 free,    101.1 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.9 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+tuned
 systemd
 kthreadd
 rcu_gp
@@ -2018,6 +2070,32 @@ rcu_par_gp
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
+MiB Mem :   1817.2 total,   1650.7 free,    101.8 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
@@ -2044,8 +2122,8 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
-MiB Mem :   1817.2 total,   1651.6 free,    101.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
 
@@ -2067,115 +2145,37 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1651.3 free,    101.2 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.8 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
 
@@ -2207,11 +2207,89 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem
 
 
 
+ksoftirqd/0
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
 ===================
 
 tuned
@@ -2249,85 +2327,33 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
 MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
@@ -2342,32 +2368,6 @@ kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-watcher.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
 ===================
 
 watcher.sh
@@ -2396,37 +2396,11 @@ rcu_gp
 rcu_par_gp
 ===================
 
+ksoftirqd/0
 tuned
 systemd
 kthreadd
 rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
 ===================
 
 ===================
@@ -2440,13 +2414,6 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem
 
 
 
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
 
 systemd
 kthreadd
@@ -2455,9 +2422,16 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
@@ -2474,19 +2448,45 @@ rcu_gp
 rcu_par_gp
 ===================
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
@@ -2501,15 +2501,15 @@ kworker/0:0H-events_highpri
 ===================
 
 rcu_sched
-watcher.sh
 systemd
 kthreadd
 rcu_gp
+rcu_par_gp
 ===================
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
@@ -2535,7 +2535,7 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
@@ -2564,175 +2564,12 @@ rcu_par_gp
 MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-watcher.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
 MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
 
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-watcher.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
 
 tuned
 watcher.sh
@@ -2741,25 +2578,6 @@ kthreadd
 rcu_gp
 ===================
 
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
 systemd
 kthreadd
 rcu_gp
@@ -2769,11 +2587,193 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
 MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+sssd_nss
+tuned
+systemd
+kthreadd
+rcu_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.7 free,    101.8 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.2 avail Mem 
 
 
 
@@ -2821,22 +2821,145 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1651.3 free,    101.2 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.8 avail Mem 
+
+
+
+
+
+ksoftirqd/0
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
 
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
 
 tuned
 systemd
@@ -2845,25 +2968,6 @@ rcu_gp
 rcu_par_gp
 ===================
 
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
 systemd
 kthreadd
 rcu_gp
@@ -2873,7 +2977,7 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
@@ -2890,58 +2994,6 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.6 free,    101.9 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
 tuned
 systemd
 kthreadd
@@ -2951,60 +3003,8 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
@@ -3032,6 +3032,32 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
@@ -3055,34 +3081,8 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
@@ -3098,19 +3098,19 @@ rcu_gp
 rcu_par_gp
 ===================
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
 MiB Mem :   1817.2 total,   1650.5 free,    101.9 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
@@ -3133,35 +3133,61 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
@@ -3169,6 +3195,13 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem
 
 
 
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
 systemd
 kthreadd
 rcu_gp
@@ -3176,46 +3209,13 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.5 free,    101.9 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.6 free,    101.8 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.2 avail Mem 
+MiB Mem :   1817.2 total,   1650.5 free,    102.0 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
 
 
@@ -3237,7 +3237,7 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
+MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
@@ -3266,12 +3266,19 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1650.4 free,    102.0 used,     64.7 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.4 free,    102.1 used,     64.7 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+MiB Mem :   1817.2 total,   1650.3 free,    102.1 used,     64.7 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 
 
 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
 
 tuned
 systemd
@@ -3280,16 +3287,9 @@ rcu_gp
 rcu_par_gp
 ===================
 
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     64.9 buff/cache
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     64.9 buff/cache
@@ -3332,7 +3332,7 @@ rcu_gp
 rcu_par_gp
 ===================
 
-tuned
+rcu_sched
 systemd
 kthreadd
 rcu_gp
@@ -3341,61 +3341,61 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     64.9 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     64.9 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     64.9 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
+MiB Mem :   1817.2 total,   1650.3 free,    102.0 used,     64.9 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     64.9 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
@@ -3404,10 +3404,10 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem
 
 
 tuned
-watcher.sh
 systemd
 kthreadd
 rcu_gp
+rcu_par_gp
 ===================
 
 kworker/0:1-events
@@ -3422,7 +3422,7 @@ rcu_gp
 MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     64.9 buff/cache
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     64.9 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 
@@ -3454,6 +3454,13 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem
 
 
 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
 
 sssd_nss
 systemd
@@ -3462,108 +3469,127 @@ rcu_gp
 rcu_par_gp
 ===================
 
+===================
+===================
+MiB Mem :   1817.2 total,   1650.3 free,    102.0 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.0 free,    102.2 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.6 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
 watcher.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.9 free,    101.3 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.5 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.0 free,    102.2 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.6 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.0 free,    102.2 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.6 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
-
-
-
-
-
 kworker/0:0-ata_sff
 systemd
 kthreadd
 rcu_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 systemd
@@ -3592,7 +3618,7 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
-ksoftirqd/0
+tuned
 systemd
 kthreadd
 rcu_gp
@@ -3602,7 +3628,7 @@ rcu_par_gp
 ===================
 ===================
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
@@ -3618,7 +3644,7 @@ rcu_gp
 rcu_par_gp
 ===================
 
-tuned
+sssd_nss
 systemd
 kthreadd
 rcu_gp
@@ -3627,44 +3653,18 @@ rcu_par_gp
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.0 free,    102.2 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.6 avail Mem 
 
 
 
 
-
-sssd_nss
 tuned
-systemd
-kthreadd
-rcu_gp
-===================
-
 sssd_nss
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-
-
-
-
-sssd_nss
-tuned
 systemd
 kthreadd
 rcu_gp
@@ -3682,8 +3682,8 @@ kworker/0:0H-events_highpri
 MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.4 free,    101.9 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 
 
@@ -3705,8 +3705,86 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.9 free,    101.3 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.5 avail Mem 
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.2 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.3 free,    101.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.0 free,    102.2 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.1 free,    102.2 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
@@ -3731,84 +3809,6 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-
-
-
-
-tuned
-watcher.sh
-systemd
-kthreadd
-rcu_gp
-===================
-
-watcher.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.3 free,    101.9 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
 MiB Mem :   1817.2 total,   1650.3 free,    101.9 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
 
@@ -3861,38 +3861,64 @@ rcu_par_gp
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
 MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
 
 
 
@@ -3902,32 +3928,6 @@ kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
 ===================
 
 tuned
@@ -3940,10 +3940,10 @@ rcu_par_gp
 ===================
 ===================
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
 
 
@@ -3965,8 +3965,8 @@ rcu_par_gp
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+MiB Mem :   1817.2 total,   1651.3 free,    100.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
 
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
@@ -3982,47 +3982,47 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
-tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1651.3 free,    100.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.1 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
-
 
 
 
@@ -4043,63 +4043,11 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
-
-
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
 
 
@@ -4121,11 +4069,63 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.1 avail Mem 
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
 
 
@@ -4147,115 +4147,37 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.1 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.9 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.6 free,    102.6 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 
 
 
+
+ksoftirqd/0
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+===================
 
 tuned
-watcher.sh
 kworker/0:1-events
 systemd
 kthreadd
-===================
-
-systemd
-kthreadd
 rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1651.3 free,    100.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.6 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
-
-
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.5 free,    102.6 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
 
 
 
@@ -4277,11 +4199,11 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+MiB Mem :   1817.2 total,   1651.3 free,    100.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
 
-MiB Mem :   1817.2 total,   1649.5 free,    102.6 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.2 avail Mem 
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 
 
@@ -4303,11 +4225,37 @@ kworker/0:0H-events_highpri
 
 ===================
 ===================
-MiB Mem :   1817.2 total,   1650.2 free,    102.0 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
+MiB Mem :   1817.2 total,   1651.3 free,    100.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
 
-MiB Mem :   1817.2 total,   1649.7 free,    102.5 used,     65.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.4 avail Mem 
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.3 free,    100.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.0 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
 
 
@@ -4329,10 +4277,88 @@ rcu_par_gp
 
 ===================
 ===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
 MiB Mem :   1817.2 total,   1650.1 free,    102.0 used,     65.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.8 avail Mem 
 
-MiB Mem :   1817.2 total,   1649.5 free,    102.7 used,     65.0 buff/cache
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.3 free,    100.9 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1650.1 free,    102.1 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.7 avail Mem 
+
+
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+===================
+MiB Mem :   1817.2 total,   1651.4 free,    100.8 used,     65.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.0 avail Mem 
+
+MiB Mem :   1817.2 total,   1649.0 free,    102.2 used,     66.0 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.1 avail Mem 
 
 
@@ -4346,31 +4372,31 @@ rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
 
-ksoftirqd/0
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-===================
-MiB Mem :   1817.2 total,   1650.1 free,    101.6 used,     65.5 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.0 avail Mem 
-
-MiB Mem :   1817.2 total,   1649.9 free,    101.2 used,     66.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1609.1 avail Mem 
-
-
-
-
-
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
 ===================
+
+===================
+MiB Mem :   1817.2 total,   1651.5 free,     99.6 used,     66.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1648.6 free,    102.5 used,     66.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.8 avail Mem 
+
+tuned
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+===================
+
+
 
 systemd
 kthreadd
@@ -4386,92 +4412,40 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1649.2 free,    101.9 used,     66.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.4 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.7 used,     66.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1648.1 free,    103.1 used,     66.0 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.2 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.9 free,    103.1 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.8 free,    103.3 used,     66.0 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
 tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+===================
+
+
+
+sssd_nss
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 
@@ -4491,6 +4465,32 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem
 
 
 MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.2 used,     66.2 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
 watcher.sh
@@ -4510,34 +4510,8 @@ rcu_par_gp
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
@@ -4562,118 +4536,14 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
-
-sssd_nss
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
 
 MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-kworker/0:1-events
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
 systemd
 kthreadd
@@ -4698,14 +4568,144 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1648.8 free,    102.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.0 avail Mem 
+MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
 
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+sssd_nss
+tuned
+systemd
+kthreadd
+rcu_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+tuned
+kworker/0:1-events_power_ef+
+systemd
+kthreadd
+rcu_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.4 free,     99.6 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1648.8 free,    102.1 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.1 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
 ===================
 
 
@@ -4750,7 +4750,7 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
+MiB Mem :   1817.2 total,   1647.8 free,    103.2 used,     66.2 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
 systemd
@@ -4758,6 +4758,32 @@ kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
+===================
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
 ===================
 
 
@@ -4779,20 +4805,20 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem
 MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 
 
+watcher.sh
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
@@ -4802,34 +4828,8 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.5 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.9 free,    103.1 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
+MiB Mem :   1817.2 total,   1648.2 free,    102.8 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.4 avail Mem 
 
 systemd
 kthreadd
@@ -4840,11 +4840,11 @@ kworker/0:0H-events_highpri
 
 
 
-tuned
-watcher.sh
 systemd
 kthreadd
 rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 ===================
@@ -4880,34 +4880,8 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.5 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1648.5 free,    102.4 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.8 avail Mem 
+MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
 
 systemd
 kthreadd
@@ -4952,72 +4926,20 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
 kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-sssd_nss
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
 ===================
 
 
@@ -5036,14 +4958,92 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.8 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
-sssd_nss
 tuned
 systemd
 kthreadd
 rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
+
+sssd_nss
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
+
+sssd_nss
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
 ===================
 
 
@@ -5100,16 +5100,16 @@ kworker/0:0H-events_highpri
 
 
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.5 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
@@ -5126,11 +5126,89 @@ kworker/0:0H-events_highpri
 
 
 
-tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.5 free,    103.4 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.8 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.6 free,    103.3 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+rcu_sched
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 ===================
@@ -5166,8 +5244,34 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.6 free,    103.3 used,     66.2 buff/cache
+MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.9 free,    103.0 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.2 avail Mem 
 
 systemd
 kthreadd
@@ -5192,136 +5296,6 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.4 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-watcher.sh
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1648.2 free,    102.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.4 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1648.1 free,    102.8 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.4 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-ksoftirqd/0
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
 MiB Mem :   1817.2 total,   1647.6 free,    103.3 used,     66.2 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
 
@@ -5342,14 +5316,40 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.5 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.6 free,    103.3 used,     66.2 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.8 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.2 used,     66.2 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
 systemd
 kthreadd
@@ -5360,16 +5360,16 @@ kworker/0:0H-events_highpri
 
 
 
-tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 ===================
 MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.4 avail Mem 
 
 ===================
 
@@ -5394,14 +5394,14 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
 
-MiB Mem :   1817.2 total,   1648.4 free,    102.5 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.7 avail Mem 
+MiB Mem :   1817.2 total,   1649.0 free,    101.9 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1608.3 avail Mem 
 
 systemd
 kthreadd
@@ -5426,8 +5426,8 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
 
 sssd_nss
 tuned
@@ -5446,12 +5446,168 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.0 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.6 free,    103.3 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.4 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.0 free,     99.9 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.3 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
 MiB Mem :   1817.2 total,   1651.3 free,     99.7 used,     66.3 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
 
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+===================
+MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+
+===================
+
+
 MiB Mem :   1817.2 total,   1647.6 free,    103.3 used,     66.3 buff/cache
 MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
 
@@ -5464,32 +5620,6 @@ kworker/0:0H-events_highpri
 
 
 
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.6 free,    103.3 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
 systemd
 kthreadd
 rcu_gp
@@ -5504,60 +5634,8 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.5 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.5 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.3 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
 
 systemd
 kthreadd
@@ -5582,8 +5660,8 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
 
 tuned
 systemd
@@ -5602,92 +5680,14 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
+MiB Mem :   1817.2 total,   1651.2 free,     99.7 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.5 avail Mem 
 
 ===================
 
 
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.4 free,     99.5 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.7 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1651.3 free,     99.6 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1610.6 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1647.7 free,    103.2 used,     66.3 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1647.8 free,    103.1 used,     66.3 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
 
 systemd
 kthreadd
@@ -5712,8 +5712,60 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1641.0 free,    103.4 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.5 avail Mem 
+MiB Mem :   1817.2 total,   1641.2 free,    103.2 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.7 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,   1644.6 free,     99.8 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.2 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1641.1 free,    103.2 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.7 avail Mem 
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+
+
+watcher.sh
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,   1644.7 free,     99.7 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.2 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1641.2 free,    103.2 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.7 avail Mem 
 
 systemd
 kthreadd
@@ -5738,34 +5790,8 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.2 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1641.0 free,    103.4 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.6 avail Mem 
-
-tuned
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1644.7 free,     99.7 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.2 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1641.0 free,    103.4 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.6 avail Mem 
+MiB Mem :   1817.2 total,   1641.1 free,    103.2 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.7 avail Mem 
 
 systemd
 kthreadd
@@ -5784,40 +5810,14 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1644.8 free,     99.6 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.3 avail Mem 
+MiB Mem :   1817.2 total,   1644.6 free,     99.8 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
 
 ===================
 
 
-MiB Mem :   1817.2 total,   1641.0 free,    103.4 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.5 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1644.8 free,     99.6 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.3 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1641.0 free,    103.4 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.5 avail Mem 
+MiB Mem :   1817.2 total,   1641.1 free,    103.2 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.7 avail Mem 
 
 ksoftirqd/0
 systemd
@@ -5836,14 +5836,14 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1644.8 free,     99.6 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.3 avail Mem 
+MiB Mem :   1817.2 total,   1644.6 free,     99.8 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem 
 
 ===================
 
 
-MiB Mem :   1817.2 total,   1641.0 free,    103.4 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.6 avail Mem 
+MiB Mem :   1817.2 total,   1641.2 free,    103.2 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.7 avail Mem 
 
 systemd
 kthreadd
@@ -5868,8 +5868,8 @@ MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1607.1 avail Mem
 ===================
 
 
-MiB Mem :   1817.2 total,   1641.0 free,    103.4 used,     72.8 buff/cache
-MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.5 avail Mem 
+MiB Mem :   1817.2 total,   1641.2 free,    103.2 used,     72.8 buff/cache
+MiB Swap:    820.0 total,    736.8 free,     83.2 used.   1603.7 avail Mem 
 
 systemd
 kthreadd
@@ -5888,14 +5888,14 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1644.0 free,     99.8 used,     73.4 buff/cache
-MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.9 avail Mem 
+MiB Mem :   1817.2 total,   1643.8 free,     99.9 used,     73.4 buff/cache
+MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.7 avail Mem 
 
 ===================
 
 
-MiB Mem :   1817.2 total,   1640.3 free,    103.5 used,     73.4 buff/cache
-MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1603.1 avail Mem 
+MiB Mem :   1817.2 total,   1640.4 free,    103.3 used,     73.4 buff/cache
+MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1603.3 avail Mem 
 
 systemd
 kthreadd
@@ -5906,15 +5906,15 @@ kworker/0:0H-events_highpri
 
 
 
-tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
+kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1642.9 free,     99.9 used,     74.3 buff/cache
+MiB Mem :   1817.2 total,   1642.9 free,    100.0 used,     74.3 buff/cache
 MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.2 avail Mem 
 
 ===================
@@ -5940,7 +5940,7 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1642.9 free,    100.0 used,     74.3 buff/cache
+MiB Mem :   1817.2 total,   1642.9 free,     99.9 used,     74.3 buff/cache
 MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.2 avail Mem 
 
 ===================
@@ -5949,37 +5949,11 @@ MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.2 avail Mem
 MiB Mem :   1817.2 total,   1639.2 free,    103.6 used,     74.4 buff/cache
 MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1602.6 avail Mem 
 
+tuned
 systemd
 kthreadd
 rcu_gp
 rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
-===================
-
-===================
-MiB Mem :   1817.2 total,   1642.7 free,    100.0 used,     74.4 buff/cache
-MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.1 avail Mem 
-
-===================
-
-
-MiB Mem :   1817.2 total,   1639.2 free,    103.6 used,     74.4 buff/cache
-MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1602.6 avail Mem 
-
-systemd
-kthreadd
-rcu_gp
-rcu_par_gp
-kworker/0:0H-events_highpri
 ===================
 
 
@@ -6018,6 +5992,32 @@ kworker/0:0H-events_highpri
 ===================
 
 ===================
-MiB Mem :   1817.2 total,   1642.9 free,     99.8 used,     74.4 buff/cache
-MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.3 avail Mem 
+MiB Mem :   1817.2 total,   1642.8 free,    100.0 used,     74.4 buff/cache
+MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.1 avail Mem 
+
+===================
+
+
+MiB Mem :   1817.2 total,   1639.2 free,    103.6 used,     74.4 buff/cache
+MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1602.6 avail Mem 
+
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+kworker/0:0H-events_highpri
+===================
+
+
+
+tuned
+systemd
+kthreadd
+rcu_gp
+rcu_par_gp
+===================
+
+===================
+MiB Mem :   1817.2 total,   1642.7 free,    100.0 used,     74.4 buff/cache
+MiB Swap:    820.0 total,    737.0 free,     83.0 used.   1606.1 avail Mem 
 

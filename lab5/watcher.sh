@@ -34,3 +34,4 @@ while true; do
 	analyze
 	sleep 1s
 done
+
