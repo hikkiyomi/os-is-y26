@@ -19,13 +19,13 @@ top_five() {
 
 analyze() {
 	{
-		echo "==================="
+		echo "-------------------"
 		echo "$( system_memory )"
 		echo ""
 		echo "$( mem_script )"
 		echo ""
 		echo "$( top_five )"
-		echo "==================="
+		echo "-------------------"
 		echo ""
 	} >> "$log_path"
 }
