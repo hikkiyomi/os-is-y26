@@ -31,7 +31,6 @@ for (( i = 1; i <= N; ++i )); do
 
 		time_after="$( date +%s.%3N )"
 		passed="$( echo "$time_after - $time_before" | bc -l )"
-
 		sum="$( echo "$sum + $passed" | bc -l )"
 
 		echo "FINISHED. PASSED $passed SECONDS"
